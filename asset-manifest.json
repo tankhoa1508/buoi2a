@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-buoi1b/static/css/main.f855e6bc.css",
-    "main.js": "/react-buoi1b/static/js/main.cda34e64.js",
-    "static/js/453.b6f679a0.chunk.js": "/react-buoi1b/static/js/453.b6f679a0.chunk.js",
-    "static/media/logo.svg": "/react-buoi1b/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/react-buoi1b/index.html",
-    "main.f855e6bc.css.map": "/react-buoi1b/static/css/main.f855e6bc.css.map",
-    "main.cda34e64.js.map": "/react-buoi1b/static/js/main.cda34e64.js.map",
-    "453.b6f679a0.chunk.js.map": "/react-buoi1b/static/js/453.b6f679a0.chunk.js.map"
+    "main.css": "/buoi2a/static/css/main.f855e6bc.css",
+    "main.js": "/buoi2a/static/js/main.7ac2c1c2.js",
+    "static/js/453.b6f679a0.chunk.js": "/buoi2a/static/js/453.b6f679a0.chunk.js",
+    "static/media/logo.svg": "/buoi2a/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/buoi2a/index.html",
+    "main.f855e6bc.css.map": "/buoi2a/static/css/main.f855e6bc.css.map",
+    "main.7ac2c1c2.js.map": "/buoi2a/static/js/main.7ac2c1c2.js.map",
+    "453.b6f679a0.chunk.js.map": "/buoi2a/static/js/453.b6f679a0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.cda34e64.js"
+    "static/js/main.7ac2c1c2.js"
   ]
 }
