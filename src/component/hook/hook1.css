@@ -1,0 +1,25 @@
+.hook1 {
+    width: 100%;
+    height: 300px;
+    background-color: red;
+    transition: 2s;
+    transform: translateX(-110%);
+}
+
+.hook1.active {
+    background-color: green;
+    transform: translateX(0%);
+}
+
+.meo {
+    width: 100%;
+    height: 200px;
+    background-color: aqua;
+    transition: 1s;
+    transform: translateX(-110%);
+}
+
+.meo.active {
+    background-color: orange;
+    transform: translateX(0%);
+}
